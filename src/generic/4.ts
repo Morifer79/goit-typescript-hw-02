@@ -2,7 +2,7 @@
   Використовуйте generics та інтерфейси, щоб виправити помилку в наступних класах:
 */
 interface PropsPage {
-	title: 'string';
+	title: string;
 }
 
 class Component<T> {
